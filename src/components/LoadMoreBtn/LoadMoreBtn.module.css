@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center; 
+    margin: 20px 0; 
+  }
+  
+  .loadMoreBtn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  
